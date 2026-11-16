@@ -4,9 +4,6 @@
 
 
 An end-to-end data pipeline and dashboard built on **2,023,066 consumer financial complaints** from the CFPB Consumer Complaint Database (March 2015 to July 2024). Raw data moves through a Databricks medallion architecture (Bronze, Silver, Gold), is loaded into Snowflake, and is reported in Power BI so operations teams can see where complaints are concentrated.
-
-![CFPB Consumer Complaints Monitor](dashboard_preview.png)
-
 ---
 
 ## Business problem
